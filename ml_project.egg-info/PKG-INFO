@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ml_project
+Version: 0.0.1
+Author: Adan Jafri
+Author-email: adanabbasjafri@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
